@@ -90,7 +90,7 @@ Features:
 
 - PostgreSQL warehouse
 - ETL automation
-- Power BI dashboards
+- matplotlib graphs
 - Market trend analysis
 
 ---
