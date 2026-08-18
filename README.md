@@ -32,6 +32,8 @@ Main interests:
 - PostgreSQL
 - MySQL
 - DynamoDB
+- MsSQL
+- Oracle SQL (basics)
 
 ### Data Engineering & Analytics
 
@@ -99,6 +101,7 @@ Features:
 
 - Data Engineering
 - Cloud computing
+- Database administration
 
 ---
 
